@@ -1,0 +1,20 @@
+---
+title: "Mechanical Ventilation Symposium"
+subtitle: "Getting Down to the Nitty Gritty"
+---
+
+Welcome to the first ever Symposium on Mechanical Ventilation.
+
+Organizing Committee
+
+- Musumbi
+- Idris
+- Orare
+- Masi
+- Anastacia
+
+Sponsors: Mindray & Crown Health
+
+```{r}
+
+```
